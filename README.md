@@ -1,7 +1,22 @@
+# Feed Reader Testing with Jasmine
+
+>This is the 5th project for the Udacity [Front-End Web Dev Nanodegree](https://udacity.com/course/front-end-web-developer-nanodegree--nd001/ "Front-End Web Developer Nanodegree").
+
+![Jasmine Preview](img/jasmine-preview.png "Jasmine in Action")
+
+### How to load project:
+
+Copy/clone repository from Github using Git:
+```sh
+$ git clone git@github.com:nyafologus/frontend-nanodegree-feedreader.git
+```
+Open ```index.html``` in your browser. 
+
+Alternatively, you can download it from [here](https://github.com/nyafologus/frontend-nanodegree-feedreader/archive/master.zip "Download ZIP"), or check it out live [here](https://nyafologus.github.io/feedreader/ "♥ Jasmine Test ♥")!
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
-
 
 ## Why this Project?
 
