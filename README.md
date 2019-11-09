@@ -15,7 +15,7 @@ Alternatively, you can download it from [here](https://github.com/nyafologus/fro
 
 # Project Overview
 
-In this project we were given a web-based application that reads RSS feeds. According to the hypothetical scenario that I was provided with, the original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company, thus I was left with an application with an incomplete test suite.
+This project is about a web-based application that reads RSS feeds. According to the hypothetical scenario that I was provided with, the original developer of this application clearly saw the value in testing, as they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company, thus the application was left with an incomplete test suite.
 
 
 ## Why this Project?

@@ -1,12 +1,14 @@
-/* feedreader.js
- *
- * This is the spec file that Jasmine will read and contains
+/* feedreader.js */
+
+/* This is the spec file that Jasmine will read and contains
  * all of the tests that will be run against the application.
  */
 
 /* All of the tests are placed within the $() function,
- * since some of these tests may require DOM elements. It needs to be ensured that tests  won't run until the DOM is ready.
+ * since some of these tests may require DOM elements.
+ * It needs to be ensured that tests     won't run until the DOM is ready.
  */
+
 $(() => {
 	/* This is the first test suite - a test suite contains
    * a related set of tests. This suite is all about the RSS
@@ -17,7 +19,6 @@ $(() => {
      * allFeeds variable has been defined and that it is not
      * empty.
      */
-
 		it("are defined and not empty", () => {
 			expect(allFeeds).toBeDefined();
 			expect(allFeeds.length).not.toBe(0);
@@ -112,8 +113,8 @@ $(() => {
 		});
 
 		it("should be different from the previous selection of feeds", () => {
-			// console.log(feedSelection1);
-			// console.log(feedSelection2);
+			/* console.log(feedSelection1); */
+			/* console.log(feedSelection2); */
 			expect(feedSelection1).not.toBe(feedSelection2);
 		});
 	});
