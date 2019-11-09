@@ -113,8 +113,8 @@ $(() => {
 		});
 
 		it("should be different from the previous selection of feeds", () => {
-			/* console.log(feedSelection1); */
-			/* console.log(feedSelection2); */
+			/* console.log(feedSelection1);  */
+			/* console.log(feedSelection2);  */
 			expect(feedSelection1).not.toBe(feedSelection2);
 		});
 	});

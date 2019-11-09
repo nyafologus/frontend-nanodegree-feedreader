@@ -27,7 +27,7 @@ Whether we work in an organization that uses test-driven development or in an or
 
 ## What did I learn?
 
-I leared how to use Jasmine to write a number of tests against a pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
+I learned how to use Jasmine to write a number of tests against a pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 
 ## How does this help my career?
